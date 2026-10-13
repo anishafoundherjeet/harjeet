@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harjeet & Anisha//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Harjeet & Anisha
+BEGIN:VEVENT
+UID:anand-2027@anisha-harjeet
+DTSTAMP:20261010T000000Z
+DTSTART:20270117T043000Z
+DTEND:20270117T073000Z
+SUMMARY:Anand Karaj · Harjeet & Anisha
+LOCATION:Gurudwara Sri Guru Singh Sabha\, M3FW+RH3\, A1 Block Paschim Vihar
+ \, Paschim Vihar\, Delhi 110063
+DESCRIPTION:Directions: https://www.google.com/maps/dir/?api=1&destination=
+ 28.674442%2C77.09637\n\n#AnishaFoundHerJeet
+URL:https://www.google.com/maps/dir/?api=1&destination=28.674442%2C77.09637
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Anand Karaj · Harjeet & Anisha
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harjeet & Anisha//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Harjeet & Anisha
+BEGIN:VEVENT
+UID:shagan-2027@anisha-harjeet
+DTSTAMP:20261010T000000Z
+DTSTART:20270115T130000Z
+DTEND:20270115T173000Z
+SUMMARY:Shagan · Harjeet & Anisha
+LOCATION:The Ritz\, 2nd floor\, Moti Nagar\, New Delhi
+DESCRIPTION:Directions: https://www.google.com/maps/dir/?api=1&destination=
+ 28.6631209%2C77.1551365\n\n#AnishaFoundHerJeet
+URL:https://www.google.com/maps/dir/?api=1&destination=28.6631209%2C77.1551
+ 365
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Shagan · Harjeet & Anisha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:haldi-2027@anisha-harjeet
+DTSTAMP:20261010T000000Z
+DTSTART:20270116T050000Z
+SUMMARY:Haldi · Harjeet & Anisha
+LOCATION:Hestia BnB
+DESCRIPTION:Directions: https://www.google.com/maps/dir/?api=1&destination=
+ 28.7231035%2C77.0629096\n\n#AnishaFoundHerJeet
+URL:https://www.google.com/maps/dir/?api=1&destination=28.7231035%2C77.0629
+ 096
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Haldi · Harjeet & Anisha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mehndi-2027@anisha-harjeet
+DTSTAMP:20261010T000000Z
+DTSTART:20270116T090000Z
+SUMMARY:Mehndi · Harjeet & Anisha
+LOCATION:Hestia BnB
+DESCRIPTION:Directions: https://www.google.com/maps/dir/?api=1&destination=
+ 28.7231035%2C77.0629096\n\n#AnishaFoundHerJeet
+URL:https://www.google.com/maps/dir/?api=1&destination=28.7231035%2C77.0629
+ 096
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Mehndi · Harjeet & Anisha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dj-2027@anisha-harjeet
+DTSTAMP:20261010T000000Z
+DTSTART:20270116T130000Z
+SUMMARY:DJ Night · Harjeet & Anisha
+LOCATION:Hestia BnB
+DESCRIPTION:Directions: https://www.google.com/maps/dir/?api=1&destination=
+ 28.7231035%2C77.0629096\n\n#AnishaFoundHerJeet
+URL:https://www.google.com/maps/dir/?api=1&destination=28.7231035%2C77.0629
+ 096
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:DJ Night · Harjeet & Anisha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:anand-2027@anisha-harjeet
+DTSTAMP:20261010T000000Z
+DTSTART:20270117T043000Z
+DTEND:20270117T073000Z
+SUMMARY:Anand Karaj · Harjeet & Anisha
+LOCATION:Gurudwara Sri Guru Singh Sabha\, M3FW+RH3\, A1 Block Paschim Vihar
+ \, Paschim Vihar\, Delhi 110063
+DESCRIPTION:Directions: https://www.google.com/maps/dir/?api=1&destination=
+ 28.674442%2C77.09637\n\n#AnishaFoundHerJeet
+URL:https://www.google.com/maps/dir/?api=1&destination=28.674442%2C77.09637
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Anand Karaj · Harjeet & Anisha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2027@anisha-harjeet
+DTSTAMP:20261010T000000Z
+DTSTART:20270117T083000Z
+DTEND:20270117T110000Z
+SUMMARY:Lunch · Harjeet & Anisha
+LOCATION:Casa Royal\, 2nd floor\, Peeragarhi\, New Delhi
+DESCRIPTION:Directions: https://www.google.com/maps/dir/?api=1&destination=
+ 28.6812163%2C77.0842792\n\n#AnishaFoundHerJeet
+URL:https://www.google.com/maps/dir/?api=1&destination=28.6812163%2C77.0842
+ 792
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Lunch · Harjeet & Anisha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:doli-2027@anisha-harjeet
+DTSTAMP:20261010T000000Z
+DTSTART:20270117T113000Z
+DTEND:20270117T130000Z
+SUMMARY:Doli · Harjeet & Anisha
+LOCATION:Casa Royal\, 2nd floor\, Peeragarhi\, New Delhi
+DESCRIPTION:Directions: https://www.google.com/maps/dir/?api=1&destination=
+ 28.6812163%2C77.0842792\n\n#AnishaFoundHerJeet
+URL:https://www.google.com/maps/dir/?api=1&destination=28.6812163%2C77.0842
+ 792
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Doli · Harjeet & Anisha
+END:VALARM
+END:VEVENT
+END:VCALENDAR
